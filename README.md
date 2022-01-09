@@ -1,1 +1,1 @@
-# RagistrationPage
+# RegistrationPage
